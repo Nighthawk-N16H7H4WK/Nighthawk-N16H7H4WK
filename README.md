@@ -6,15 +6,11 @@
 
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nighthawk-N16H7H4WK&hide=contribs,prs" />
-
-
-
----
  
- 🌱 I’m currently learning everything 🤣
- 👯 I’m looking to collaborate with other content creators
- 🥅 2021 Goals: Contribute more to Open Source projects
- ⚡ Fun fact: I love to play games and hack my friends accout🤣
+ - 🌱 I’m currently learning everything 🤣
+ - 👯 I’m looking to collaborate with other content creators
+ - 🥅 2021 Goals: Contribute more to Open Source projects
+ - ⚡ Fun fact: I love to play games and hack my friends accout🤣
 
 
 ---
