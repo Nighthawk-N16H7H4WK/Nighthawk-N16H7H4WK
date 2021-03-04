@@ -1,8 +1,8 @@
 <!-- Github README -->
-<p align="center"><a href="https://github.com/htr-tech">
+<p align="center"><a href="https://github.com/Nighthawk-N16H7H4WK">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nighthawk-N16H7H4WK&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Nighthawk-N16H7H4WK"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nighthawk-N16H7H4WK&layout=compact&theme=react&hide_border=true" />
+
 </a></p>
 
 <h2><b><i>Howdy , it's Nighthawk-N16H7H4WK👋</i></b></h2>
