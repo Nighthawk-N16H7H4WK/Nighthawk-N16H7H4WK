@@ -25,9 +25,3 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Nighthawk-N16H7H4WK&color=blueviolet&style=flat-square"></a>
 
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/Nighthawk-N16H7H4WK"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://github.com/Nighthawk-N16H7H4WK"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://github.com/Nighthawk-N16H7H4WK"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://github.com/Nighthawk-N16H7H4WK"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
-
