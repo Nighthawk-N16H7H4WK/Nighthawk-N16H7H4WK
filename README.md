@@ -5,16 +5,9 @@
 
 </a></p>
 
-<h2><b><i>Howdy , it's Nighthawk-N16H7H4WK👋</i></b></h2>
+<h2><b><i> Nighthawk-N16H7H4WK <i></b></h2>
 <b><i>💻 I'm a Student r</i></b>
 
-<h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Bangladeshi</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😪 <i>Gaming</i></li>
-<li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
-<li> 🤐 <i>Aim :TO Be a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
 >>>NO WORKS FOR NOW
